@@ -1,0 +1,31 @@
+* {
+  border: 1px solid blue
+}
+
+header ~ h1{
+  font-size: 20px;
+}
+
+ol.favBands{
+  font-size: 50px;
+}
+
+#movieHeader{
+  padding: 50px;
+}
+
+li:first-child{
+  padding-top: 30px;
+}
+
+li:hover{
+  color: blue;
+}
+
+p1, p2{
+  background-color: aqua;
+  color: red;
+}
+ol > li{
+  background-color: blueviolet;
+}
